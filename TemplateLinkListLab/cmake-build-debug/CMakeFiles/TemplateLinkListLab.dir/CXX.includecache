@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/LinkedList.cpp
+LinkedList.h
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/LinkedList.h
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/LinkedList.h
+iostream
+-
+Node.h
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/Node.h
+LinkedList.cpp
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/LinkedList.cpp
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/Node.h
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/main.cpp
+iostream
+-
+LinkedList.h
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch13/TemplateLinkListLab/LinkedList.h
+
