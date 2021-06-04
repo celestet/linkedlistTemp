@@ -13,14 +13,21 @@ int main() {
 //
 //    list += 3;
 
+cout << "inserting 4,3,6" << std::endl;
     list.insertBefore(4);//works
     list.insertBefore(3);
     list.insertBefore(6);
-//
-//
+
+//cout << "inserting 5 before 6" << std::endl;
 //    list.insertMiddle(5, 6);//works
+////
 //
-//    list.find(5);//works
+//cout << "finding 5" << std::endl;
+//
+//if(list.find(5)){
+//    cout << "5 is found" << std::endl;
+//}
+//    //works
 //
 //    if(list.empty()){//works
 //        cout << "list is empty";
@@ -30,7 +37,7 @@ int main() {
 //        cout << "list has items";
 //    }
 
-    list.removeHead();//works
+//    list.removeHead();//works
     std::cout << list;
 
 
